@@ -56,6 +56,11 @@ TODO:
 - Evaluation: intrinsic v/s extrinsic
 - Named Entity Recognition and Binary neural classifier
 
+TODO:
+
+- implement word2vec from scratch
+- understand negative sampling and implement it
+
 ## Resources
 
 [McCormick article](https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
